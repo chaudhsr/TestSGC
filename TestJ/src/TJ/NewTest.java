@@ -34,7 +34,7 @@ public class NewTest {
 	int numcol=0;
 	String value = null;
 	
-	int l=0;
+	int l=1;
 	 
 	 @BeforeTest
 		public void beforeTest() {			
