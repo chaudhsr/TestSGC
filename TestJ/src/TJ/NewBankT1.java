@@ -32,7 +32,7 @@ public class NewBankT1 {
 	int numcol1=0;
 	String custIdCaptured = null;
 
-	//changing to test github repository
+	//changing to test github repository flow
 	
 	String value = null;
 	
