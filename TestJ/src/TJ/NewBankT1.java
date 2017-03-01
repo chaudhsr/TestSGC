@@ -32,8 +32,8 @@ public class NewBankT1 {
 	int numcol1=0;
 	String custIdCaptured = null;
 
-	//changing to test github repository flow
-	
+		int l=1;
+		
 	String value = null;
 	
 	@BeforeMethod
