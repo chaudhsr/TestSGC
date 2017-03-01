@@ -33,6 +33,8 @@ public class NewTest {
 	int numrow=0;
 	int numcol=0;
 	String value = null;
+	
+	int l=0;
 	 
 	 @BeforeTest
 		public void beforeTest() {			
