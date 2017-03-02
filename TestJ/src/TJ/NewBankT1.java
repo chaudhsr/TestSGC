@@ -32,7 +32,7 @@ public class NewBankT1 {
 	int numcol1=0;
 	String custIdCaptured = null;
 
-		int l=2;
+		int l=3;
 		
 	String value = null;
 	
